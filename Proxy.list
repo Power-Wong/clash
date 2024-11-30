@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steam.com
 DOMAIN-SUFFIX,githusteamcommunity.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,officecdnmac.microsoft.com
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
